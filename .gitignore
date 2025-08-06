@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build output
+aiapply.exe
+
+# Environment variables
+.env
+
+# Sensitive files
+cookie.json
+database.json
+
+# Scraper output
+temp.html
+wellfound_jobs.html
+cuvette/cuvette.html
+linkedin/jobs.html
+
+# Temporary folders
+New folder/
+frontend/stellar-job-seeker-hub/src/credentials.json\"frontend/client_secret_851068951455-4u7jf9lpg9a646tqe3uffdmouk1cc40e.apps.googleusercontent.com.json\" 
