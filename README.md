@@ -1,8 +1,6 @@
-## 📄 README for AiApply - Stellar Job Seeker Hub 🚀
+## 📄 Quick-Apply : Stellar Job Seeker Hub 🚀
 
-A full-stack application designed to streamline your job search: from scraping listings to sending optimized cold emails and tracking outcomes via a rich analytics dashboard.
-
----                                     |
+A full-stack application designed to streamline your job search: from scraping listings to sending optimized cold emails and tracking outcomes via a rich analytics dashboard.                               
 
 ## ✨ Features
 
@@ -179,9 +177,6 @@ We welcome contributions! Please adhere to the following:
 - Maintain code style consistency.
 
 - Document new endpoints in README.
-
-See [CONTRIBUTING.md](https://chatgpt.com/c/CONTRIBUTING.md) for full guidelines.
-
 ---
 
 
